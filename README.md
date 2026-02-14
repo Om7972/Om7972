@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently a third-year computer engineering student<br>I am in VIIT college Pune<br>My interests are in full stack development<br>I have all skills related to full stack development<br>I also have interest in java and python<br>mainly my dsa learning is in java 
+
+I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune. With a strong foundation in full-stack development, I specialize in building scalable web applications using modern technologies like React.js, Next.js, Node.js, and various database systems.
 
 
 ## 🌐 Socials:
