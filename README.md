@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune. With a strong foundation in full-stack development, I specialize in building scalable web applications using modern technologies like React.js, Next.js, Node.js, and various database systems.
+I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune. With a strong foundation in full-stack development, I specialize in building scalable web applications using modern technologies like React.js, Next.js, Node.js, and various database systems. I am focusing on Software Development in JAVA.
 
 
 ## 🌐 Socials:
