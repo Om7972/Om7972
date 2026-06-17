@@ -100,10 +100,181 @@ I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at V
 ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-FF9800?style=for-the-badge)
 ![Generative%20AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
 ![Mainframe](https://img.shields.io/badge/Mainframe%20Technology-003366?style=for-the-badge)
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Generative AI** | Advanced | LLM integration, prompt engineering, AI workflows |
+| **Large Language Models** | Advanced | OpenAI, Gemini, Groq Llama 3.1, multi-model AI systems |
+| **Machine Learning** | Intermediate | Data Science, model evaluation, supervised learning |
+| **AI Applications** | Advanced | Medical AI, document analysis, productivity systems |
+| **Document AI** | Experienced | PDF extraction, OCR pipelines, AI-powered summarization |
+| **Backend AI Systems** | Advanced | REST APIs, Edge Functions, rate limiting, AI gateways |
+| **Cloud & DevOps** | Intermediate | AWS EC2, Lambda, Docker, CI/CD, Vercel |
+| **Data Science** | Intermediate | Data analysis and ML fundamentals |
+
+---
+
+# Featured Projects
+
+## Omepilot Auto AI — AI Productivity Workspace
+
+> Full-stack AI workspace for chat, document analysis, image generation, and voice interactions.
+
+- **Stack:** React · TypeScript · Supabase · PostgreSQL · Gemini API
+- **Features:** AI Chat · Voice AI · Image Generation · Document Analysis
+- **Security:** Authentication · RBAC · Stripe Subscription System
+- **Architecture:** Edge Functions · API Rate Limiting
+- **Deployment:** Vercel
+
+**What it does:** Provides an AI-powered productivity ecosystem with secure authentication, real-time collaboration, and scalable backend architecture.
+
+---
+
+## MediGuide AI — AI Medical Assistant Platform
+
+> AI-driven healthcare assistant with risk scoring and digital health twin simulation.
+
+- **Stack:** React · Node.js · Express · MongoDB · OpenAI · Gemini · Groq Llama 3.1
+- **Features:** OCR Report Analysis · Health Risk Scoring · Medication Guidance
+- **Architecture:** Multi-model AI Gateway with fallback system
+- **Backend:** 10+ REST APIs with JWT Authentication
+
+**What it does:** Delivers personalized AI medical insights, missed-dose recovery recommendations, and intelligent medical report analysis.
+
+---
+
+## Lovesome-Summaries — AI Document & Video Summarizer
+
+> AI-powered summarization platform for PDFs and videos.
+
+- **Stack:** React · TypeScript · Supabase · PostgreSQL · GPT-4 Turbo
+- **Features:** Interactive Q&A · PDF Analysis · Video Transcription
+- **Security:** Zero frontend API key exposure
+- **Integrations:** Whisper API · YouTube Processing Pipeline
+
+**What it does:** Generates timestamped AI summaries and enables question-answering over documents and videos.
+
+---
+
+# Experience
+
+## Publicity Team Member — IoT Forum VIIT
+
+**July 2024 – September 2025**
+
+Contributed to technical event promotion and community building initiatives.
+
+### Scope of Work
+
+- Coordinated campaigns generating 15,000+ social media impressions.
+- Organized workshops on IoT, Artificial Intelligence, and Cloud Computing.
+- Collaborated with teams to improve forum visibility and engagement.
+- Supported technical awareness activities within and outside the institute.
+
+**Technologies:** IoT · AI · Cloud Computing · Marketing · Event Management
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|---|---|
+| Dean's List | Maintained throughout all semesters |
+| LeetCode | 200+ problems solved in Java |
+| GitHub | 350+ contributions during 2025-26 |
+| Generative AI Concentration | B.Tech Computer Engineering |
+| Full Stack Development | Multiple production-grade projects |
+| Data Structures & Algorithms | Strong problem-solving foundation |
+
+---
+
+# Certifications
+
+### Infosys Springboard
+- DSA in Java (2024)
+
+### Meta / Coursera
+- Meta Back-End Developer Professional Certificate (2025)
+
+### Coursera
+- Data Science and Machine Learning (2025)
+
+### IBM
+- IBM Z Xplore – Concepts (Mainframe Technology)
+
+### Cisco Networking Academy
+- CCNAv7 Module 1 – Computer Networks
+
+### Unstop
+- Python Certificate
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - System Design & Distributed Systems
+  - Advanced Backend Development
+  - Cloud Engineering and DevOps
+  - Scalable AI Architectures
+
+Building:
+  - AI-powered SaaS applications
+  - Full-stack production systems
+  - Developer productivity platforms
+  - Multi-model AI applications
+
+Exploring:
+  - Generative AI and Agentic AI
+  - RAG pipelines and LLM ecosystems
+  - AWS Cloud Services and Serverless
+  - Event-driven and distributed systems
+
+Open To:
+  - Software Engineering Internships
+  - Full Stack Developer Roles
+  - Backend Engineering Opportunities
+  - AI / ML Engineer Roles
+  - Open Source Collaborations
+```
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Om7972&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Om7972&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Om7972&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Om7972&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+&nbsp;
+<img height="175" src="https://nirzak-streak-stats.vercel.app/?user=Om7972&theme=dark&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om7972&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Om7972&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -113,5 +284,37 @@ I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at V
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Om7972&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:odhumkekar@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ODHUMKEKAR%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/om-dhumkekar-9b1865295/">
+<img src="https://img.shields.io/badge/LinkedIn-OM_DHUMKEKAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br>
+
+<a href="https://github.com/Om7972">
+<img src="https://img.shields.io/badge/GitHub-OM7972-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://https://portfolio-iota-rust-w7bwnhyeju.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-LIVE_WEBSITE-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+### *Building scalable AI systems, modern web applications, and impactful digital experiences.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
