@@ -1,4 +1,47 @@
-c# 💫 About Me:
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Om+Dhumkekar;Software+Engineer+%7C+Full-Stack+Developer;Generative+AI+Enthusiast;Backend+%26+Cloud+Engineering;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/B.Tech_Computer_Engineering-VIIT_Pune-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-7.97_/_10-10B981?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Pune,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:odhumkekar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Om7972" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Om7972&color=7C3AED&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Om7972?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Om7972?style=flat-square&color=A78BFA&label=Stars"/>
+
+</div>
+<br/>
+
+## 💫 About Me:
 
 I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune. With a strong foundation in full-stack development, I specialize in building scalable web applications using modern technologies like React.js, Next.js, Node.js, and various database systems. I am focusing on Software Development in JAVA.
 
@@ -246,21 +289,6 @@ Open To:
 ![](https://nirzak-streak-stats.vercel.app/?user=Om7972&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Om7972&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Om7972&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-&nbsp;
-<img height="175" src="https://nirzak-streak-stats.vercel.app/?user=Om7972&theme=dark&hide_border=false" />
-
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om7972&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-
-</div>
-
----
 
 ## Contribution Activity
 
