@@ -52,10 +52,34 @@ Driven by curiosity and continuous learning, I actively explore **Generative AI,
 I combine strong software engineering fundamentals with problem-solving skills developed through **Data Structures & Algorithms**, maintaining an active GitHub presence and continuously expanding my expertise across modern technologies.
 
 **Open to:** Software Engineering Internships · Full-Stack Developer Roles · Backend Engineering Opportunities · AI/ML Engineer Roles · Open Source Collaborations
-
+<br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om__dhumkekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-dhumkekar-9b1865295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odhumkekar@gmail.com) [![LeetCode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/tgywuo8NPg/) 
+## Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%40YOUR_USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+</a>
+&nbsp;
+
+<a href="https://www.linkedin.com/in/om-dhumkekar-9b1865295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Om_Dhumkekar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+&nbsp;
+
+<a href="mailto:odhumkekar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-odhumkekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+</a>
+&nbsp;
+
+<a href="https://leetcode.com/u/tgywuo8NPg/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FF6C37?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FF6C37" />
+</a>
+
+</div>
+<br/>
 
 # 💻 Tech Stack:
 ## 💻 Programming Languages
