@@ -15,11 +15,11 @@
 </p>
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+  <a href="https://portfolio-iota-rust-w7bwnhyeju.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/om-dhumkekar-9b1865295/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -41,13 +41,21 @@
 </div>
 <br/>
 
-## 💫 About Me:
+## About Me
 
-I'm Om Ajit Dhumkekar, a passionate Third Year Computer Engineering student at Vishwakarma Institute of Information Technology, Pune. With a strong foundation in full-stack development, I specialize in building scalable web applications using modern technologies like React.js, Next.js, Node.js, and various database systems. I am focusing on Software Development in JAVA.
+I am a **Software Engineer and Full-Stack Developer** passionate about building intelligent software that combines modern web technologies with the power of **Generative AI**. Currently pursuing a **B.Tech in Computer Engineering at VIIT Pune**, I focus on creating scalable, production-grade applications that solve real-world problems and deliver exceptional user experiences.
+
+My work spans the entire software development lifecycle — from designing intuitive frontends and architecting backend systems to integrating AI services and deploying cloud-native applications. I have built AI-powered productivity platforms, medical assistant systems, and document intelligence applications using technologies such as **React, TypeScript, Node.js, PostgreSQL, MongoDB, Supabase, and Large Language Models**.
+
+Driven by curiosity and continuous learning, I actively explore **Generative AI, backend engineering, system design, cloud computing, and distributed systems**. I enjoy transforming ideas into products that are secure, scalable, and built with long-term maintainability in mind.
+
+I combine strong software engineering fundamentals with problem-solving skills developed through **Data Structures & Algorithms**, maintaining an active GitHub presence and continuously expanding my expertise across modern technologies.
+
+**Open to:** Software Engineering Internships · Full-Stack Developer Roles · Backend Engineering Opportunities · AI/ML Engineer Roles · Open Source Collaborations
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om__dhumkekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-dhumkekar-9b1865295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odhumkekar@gmail.com) [![LeetCode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/tgywuo8NPg/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om__dhumkekar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-dhumkekar-9b1865295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:odhumkekar@gmail.com) [![LeetCode](https://img.shields.io/badge/Leetcode-%23E4405F.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/tgywuo8NPg/) 
 
 # 💻 Tech Stack:
 ## 💻 Programming Languages
